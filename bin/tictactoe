@@ -10,7 +10,7 @@ def start
   1 - Single player Mode
   2 - Two Player Mode"
 
-  input  = gets.strip
+  player_input  = gets.strip
 
-  
+
 end
