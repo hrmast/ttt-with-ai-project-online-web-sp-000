@@ -22,3 +22,4 @@ module Players
       return "8"
     end
   end
+end
