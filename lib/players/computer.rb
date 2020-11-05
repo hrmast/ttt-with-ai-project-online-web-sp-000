@@ -21,5 +21,3 @@ module Players
     elsif board.cells[7] == " "
       return "8"
     end
-  end
-end
